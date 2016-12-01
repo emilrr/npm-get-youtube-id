@@ -1,0 +1,21 @@
+{
+    "name": "npm-get-youtube-id",
+    "version": "1.0.7",
+    "description": "This module will extract Youtube video id from URL string",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/emilrr/npm-get-youtube-id.git"
+    },
+    "homepage": "https://github.com/emilrr/npm-get-youtube-id",
+    "keywords": [
+        "youtube",
+        "url"
+    ],
+    "dependencies": {}
+}
